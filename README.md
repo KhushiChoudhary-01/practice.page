@@ -1,3 +1,4 @@
 # practice.page
-this my first repository
+This my first git repository
+<br>
 Author - Khushi Choudhary
